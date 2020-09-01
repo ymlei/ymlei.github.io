@@ -20,7 +20,6 @@ Education
 
 Resarch Experience
 ======
-
 Digital Molecular Computer
 ------
 Digital Molecular Computer was designed to solve large scale combination problems. It is inspired by molecular/DNA computer, combined massive parallelism of molecular computing and high speed of digital computer. Special microarchitecture and ISA were designed to achieve the delicated parallelism.<br>
@@ -29,19 +28,19 @@ For more information: [Paper](ymlei/github.io/files/DMC.pdf) [Video](https://www
 
 Storage Core
 ------
-To answer what storage processor we need? Profile current processors (ARM/RISC-V) in storage system with in-storage computation with gem-5.<br>
+To answer what storage processor should be like. Profile current processors (ARM/RISC-V) in storage system with in-storage computation with gem-5.<br>
 *In processing...*<br><br>
 
 
 Contact
 ======
-ymlei1817 AT gmail DOT com
+ymlei1817 AT gmail DOT com<br>
 ymlei AT bupt DOT edu DOT cn
 <br><br>
 
 Misc.
 ======
- Sports: walk & think, tennis and jog.
+ **Sports**: walk & think, tennis and jog. 
  In my spare time, I enjoy reading, cooking, driving, hiking and exploiting nature and cities.
 <br><br>
 <div align=center>
