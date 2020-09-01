@@ -42,5 +42,5 @@ Misc.
  In my spare time, I enjoy reading, cooking, driving, hiking and exploiting wilderness.
 <br><br>
 <div>
- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TkK2eJ11m3O6vUTwz881CpCP86xJPuA0Mgpse9p16bE&cl=ffffff&w=50"></script>
+ <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TkK2eJ11m3O6vUTwz881CpCP86xJPuA0Mgpse9p16bE&cl=ffffff&w=400"></script>
  </div>
