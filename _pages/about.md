@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior undergraduate student in Comuputer Science department at the [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Professor Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent worderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019.
 
-My research interests are mainly about computer architectre. Currently I'm focusing on **specialized processor** and **hardware/software interface**. I've done serval projects about designing processor.
+My research interests are mainly about computer architecture. Currently, I'm focusing on **specialized processor** and **hardware/software interface**. I've done serval projects about designing processors for specialized problems.
 <br><br>
 
 Education
@@ -23,14 +23,14 @@ Resarch Project
 
 Digital Molecular Computer
 ------
-Digital Molecular Computer was designed to solve large scale combination problems. It is inspired by molecular/DNA computer, combining massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA were designed to achieve the delicated parallelism.<br><br>
+Digital Molecular Computer was designed to solve large scale combination problems. It is inspired by molecular/DNA computer, combining massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA were designed to achieve the well-organized parallelism.<br><br>
 For more information: [Paper](ymlei/github.io/files/DMC.pdf) [Video](https://www.youtube.com/watch?v=QWBxIEiYPYo)
 
 
 Storage Core
 ------
-To answer what storage processor should be like. Profile current processors (ARM/RISC-V) in storage system with in-storage computation with gem-5.<br>
-*In processing...*<br><br>
+To answer what storage processor should be like. Profile current processors (ARM/RISC-V) in storage system with in-storage computing workloads with gem-5.<br>
+*In processing...*<br>
 
 Contact
 ======
@@ -39,8 +39,8 @@ ymlei1817 AT gmail DOT com<br>
 Misc.
 ======
  **Sports**: walk & think, tennis and jog. 
- In my spare time, I enjoy reading, cooking, driving, hiking and exploiting nature and cities.
+ In my spare time, I enjoy reading, cooking, driving, hiking and exploiting wilderness.
 <br><br>
-<div text-align=center>
+<div style="height:200px">
  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TkK2eJ11m3O6vUTwz881CpCP86xJPuA0Mgpse9p16bE&cl=ffffff&w=a"></script>
  </div>
