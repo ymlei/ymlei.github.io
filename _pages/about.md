@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior undergraduate student in Comuputer Science department at the [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Professor Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent worderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019.
 
-My research interests are mainly about computer architecture. Currently, I'm focusing on **specialized processor** and **hardware/software interface**. I've done serval projects about designing processors for specialized problems.
+My research interests are mainly about computer architecture and system. Currently, I'm focusing on **specialized processor**, **hardware/software interface** and **in-storage computing**. I've done projects about designing processors for specialized problems and fields.
 <br><br>
 
 Education
@@ -30,7 +30,7 @@ For more information: [Paper](ymlei/github.io/files/DMC.pdf) [Video](https://www
 Storage Core
 ------
 To answer what storage processor should be like. Profile current processors (ARM/RISC-V) in storage system with in-storage computing workloads with gem-5.<br>
-*In processing...*<br>
+*In progress...*<br>
 
 Contact
 ======
