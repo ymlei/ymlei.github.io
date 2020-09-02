@@ -23,13 +23,13 @@ Resarch Project
 
 Digital Molecular Computer
 ------
-Digital Molecular Computer was designed to solve large scale combination problems. It is inspired by molecular/DNA computer, combining massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA were designed to achieve the well-organized parallelism.<br><br>
+Digital Molecular Computer (DMC) is created to solve large scale combination problems. Inspired by molecular/DNA computer, DMC combines massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA are designed to achieve the well-organized parallelism.<br><br>
 For more information: [Paper](ymlei/github.io/files/DMC.pdf) [Video](https://www.youtube.com/watch?v=QWBxIEiYPYo)
 
 
 Storage Core
 ------
-To answer what storage processor should be like. Profile current processors (ARM/RISC-V) in storage system with in-storage computing workloads with gem-5.<br>
+This project aim to answer what storage processor should be like. We profile current storage processors (ARM/RISC-V) with in-storage computing workloads in gem-5.<br>
 *In progress...*<br>
 
 Contact
