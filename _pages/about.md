@@ -11,9 +11,8 @@ redirect_from:
 I'm a senior undergraduate student in Comuputer Science department at the [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Professor Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent worderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019.
 
 My research interests are mainly about computer architecture and system. Currently, I'm focusing on **specialized processor** and **data-centric computing**. I've done projects about designing processors for specialized problems and fields.
-<br><br>
-
-**My weapons**: FPGA, gem5
+<br>
+Skills: FPGA, gem5
 <br><br>
 
 Education
@@ -29,12 +28,13 @@ Digital Molecular Computer
 Digital Molecular Computer (DMC) is created to solve large scale combination problems. Inspired by molecular/DNA computer, DMC combines massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA are designed to achieve the well-organized parallelism.<br>
 We implemented the DMC prototype in FPGA and processed variable-limited boolean satisfiability problems.
 <br>
-For more information: [Paper in progress](ymlei/github.io/files/DMC.pdf) [Video](https://www.youtube.com/watch?v=QWBxIEiYPYo)
+For more information: [Paper(To be upload))](ymlei/github.io/files/DMC.pdf) [Video](https://www.youtube.com/watch?v=QWBxIEiYPYo)
 
 
 Storage Core
 ------
-This project aims to answer what storage processor should be like. We profiled current storage processors (ARM/RISC-V) with in-storage computing workloads in gem-5.<br> Currently, We are focusing SSD arrays managment system with FPGA.
+This project aims to answer what storage processor should be like. We profiled current storage processors (ARM/RISC-V) with in-storage computing workloads in gem-5.<br>
+Currently, We are focusing SSD arrays managment system with FPGA.<br>
 *In progress...*<br>
 
 Contact
