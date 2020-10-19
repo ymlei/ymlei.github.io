@@ -33,8 +33,8 @@ Digital Molecular Computer
 Digital Molecular Computer (DMC) is created to solve large scale combination problems. Inspired by molecular/DNA computer, DMC combines massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA are designed to achieve the well-organized parallelism.<br>
 We implemented the DMC prototype in FPGA and processed variable-limited boolean satisfiability problems.
 <br>
-<img src='/images/system.PNG'>
-<img src='/images/datapath.PNG'>
+![]"https://github.com/ymlei/ymlei.github.io/blob/master/images/system.png"
+![]"https://github.com/ymlei/ymlei.github.io/blob/master/images/datapath.png"
 For more information: [Paper(To be upload)](ymlei/github.io/files/DMC.pdf) [Video](https://www.youtube.com/watch?v=QWBxIEiYPYo)
 
 
