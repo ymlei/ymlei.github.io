@@ -35,7 +35,7 @@ We implemented the DMC prototype in FPGA and processed variable-limited boolean 
 <br><br>
 ![system](../images/system.png){:height="60%" width="60%"}
 <br>
-For more information: [Paper(To be upload)](ymlei/github.io/files/DMC.pdf) [Video](https://www.youtube.com/watch?v=QWBxIEiYPYo)
+For more information: [Abstract](ymlei/github.io/files/abstract.pdf) [Video](https://www.youtube.com/watch?v=QWBxIEiYPYo)
 
 
 In-Storage Computing
