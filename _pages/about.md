@@ -30,7 +30,7 @@ Resarch Project
 
 Digital Molecular Computer
 ------
-Digital Molecular Computer (DMC) is created to solve large scale combination problems. Inspired by molecular/DNA computer, DMC combines massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA are designed to achieve the well-organized parallelism.<br>
+Digital Molecular Computer (DMC) is an in-memory computing architecture, created to solve large scale combination problems. Inspired by molecular/DNA computer, DMC combines massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA are designed to achieve the well-organized parallelism.<br>
 We implemented the DMC prototype in FPGA and processed variable-limited boolean satisfiability problems.
 <br><br>
 ![system](../images/system.png){:height="60%" width="60%"}
