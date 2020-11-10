@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student in Comuputer Science department at the [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Professor Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent worderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019.
+I'm a senior undergraduate student in Comuputer Science department at the [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Professor Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent wonderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019.
 
 My research interests lie generally in computer architecture and system, particularly in the intersection of computation and storage. As the storage techniques develop and massive amounts of data are created every day, there emerges a bottleneck between storage and computation nodes, not only because of hardware limitations, but out-of-date computation models as well. My research aims to build efficient systems by utilizing and hybridizing computation and storage from processor-level to datacenter-level. Currently, I'm focusing on **specialized processor** and **data-centric computing**.
 
@@ -25,7 +25,7 @@ Education
 * Sep 2017 - Jun 2021(expected)<br>B.E. in Computer Science at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), Beijing, China
 * Sep 2019 - Feb 2020<br>Exchange Student at [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/), Paris, France<br><br>
 
-Resarch Project
+Resarch Projects
 ======
 
 Digital Molecular Computer
