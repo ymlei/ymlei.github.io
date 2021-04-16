@@ -41,8 +41,6 @@ For more information: [Abstract](../files/abstract2.pdf) [Video](https://www.you
 In-Storage Computing
 ------
 The idea of in-storage computing is moving the computation to storage device to reduce data movement. It benefits from IO reduction but degrades from computing weakness in SSD. We modeled that tradeoff with parameters of IO, processor, dispatch model and workload metrics. The model provides a threshold of workloads' IPB(Instruction per Byte) to determine whether a workload dispatch policy benefits from the in-storage computing system. It also provides a quantitative tool for analysis and guides us to develop dynamic workload dispatch systems in the future.<br>
-Currently, We are also interested in SSD arrays managment system with FPGA.<br>
-*In progress...*<br>
 
 Contact
 ======
