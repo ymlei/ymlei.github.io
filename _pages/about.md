@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student in Comuputer Science department at the [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Prof. Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent wonderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019, advised by [Prof. Raja Chiky](http://perso.isep.fr/rchiky/) and [Prof. Xun Zhang](http://zhangxun.free.fr/).
+I'm a PhD student at network and cloud systems research group, Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), working with Excellent [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
+
+Before joining MPI, I got my Bachlor of Science in Comuputer Science at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work (remotely) with [Prof. Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent wonderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019, advised by [Prof. Raja Chiky](http://perso.isep.fr/rchiky/) and [Prof. Xun Zhang](http://zhangxun.free.fr/).
 
 My research interests lie generally in computer architecture and system, particularly in the intersection of computation and storage. As the storage techniques develop and massive amounts of data are created every day, there emerges a bottleneck between storage and computation nodes, not only because of hardware limitations, but out-of-date computation models as well. My research aims to build efficient systems by utilizing and hybridizing computation and storage from processor-level to datacenter-level. Currently, I'm focusing on **specialized processor** and **data-centric computing**.
 
-What I have
-* Strong general coding skill (CS Major)
-* Hardware design and prototyping (FPGA)
-* Simulator and Modeling (gem5)
-* Project experience in Machine Learning (Keras)
+What I played with
+* FPGA
+* Pytorch
+* To be continue...
 <br><br>
-
 
 Education
 ======
-* Sep 2017 - Jun 2021(expected)<br>B.E. in Computer Science at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), Beijing, China
+* Oct 2021 - Present<br>PhD Student at [MPI-INF](https://www.mpi-inf.mpg.de/home)
+* Sep 2017 - Jun 2021<br>B.Sc in Computer Science at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), Beijing, China
 * Sep 2019 - Feb 2020<br>Exchange Student at [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/), Paris, France<br><br>
 
 Resarch Projects
