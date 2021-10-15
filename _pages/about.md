@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ I'm a PhD student at network and cloud systems research group, Max Planck Instit
 
 Before joining MPI, I got my Bachlor of Science in Comuputer Science at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work (remotely) with [Prof. Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent wonderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019, advised by [Prof. Raja Chiky](http://perso.isep.fr/rchiky/) and [Prof. Xun Zhang](http://zhangxun.free.fr/).
 
-My research interests lie generally in computer architecture and system, particularly in the intersection of computation and storage. As the storage techniques develop and massive amounts of data are created every day, there emerges a bottleneck between storage and computation nodes, not only because of hardware limitations, but out-of-date computation models as well. My research aims to build efficient systems by utilizing and hybridizing computation and storage from processor-level to datacenter-level. Currently, I'm focusing on **specialized processor** and **data-centric computing**.
+My research interests lie generally in computer architecture and system, particularly in the intersection of computation and storage. As the storage techniques develop and massive amounts of data are created every day, there emerges a bottleneck between storage and computation nodes, not only because of hardware limitations, but out-of-date computation models as well. My research aims to build efficient systems by utilizing and hybridizing computation and storage from processor-level to datacenter-level. I worked on **specialized processor** and **data-centric computing**.
 
 What I played with
 * FPGA
@@ -28,7 +28,6 @@ Education
 
 Resarch Projects
 ======
-
 Digital Molecular Computer
 ------
 Digital Molecular Computer (DMC) is an in-memory computing architecture, created to solve large scale combination problems. Inspired by molecular/DNA computer, DMC combines massive parallelism of molecular computing and high speed of digital computer. Specialized microarchitecture and ISA are designed to achieve the well-organized parallelism.<br>
