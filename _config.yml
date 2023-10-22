@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiming LEI"
 title_separator          : "-"
 name                     : &name "Yiming Lei"
-description              : &description "Learner / Researcher"
+description              : &description ""
 url                      : https://ymlei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ymlei.ymlei.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiming Lei"
+  name             : "Yiming Lei (Right) \n and Mengmeng"
   avatar           : "profile.jpg"
   bio              : 
   location         : "Saarbrücken, Germany"
