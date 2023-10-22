@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yiming Lei"
-  avatar           : "profile.png"
-  bio              : "Learner / Researcher"
+  avatar           : "profile.jpg"
+  bio              : 
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "ymlei1817@gmail.com"
+  email            :  "ylei@mpi-inf.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
