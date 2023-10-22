@@ -19,7 +19,7 @@ My research interests lie generally in computer architecture and system, particu
 -->
 
 I play with
-* Programmable Switches (Tofino)
+* Programmable Switches (P4 + Tofino/Tofino2)
 * Pytorch
 * FPGA
 * To be continue...
@@ -27,7 +27,7 @@ I play with
 
 News
 ======
-* I will be voluteering for SOSP'23. See you in Koblenz!
+* I will be volunteering for SOSP'23. See you in Koblenz!
 * [EchelonFlow](https://dl.acm.org/doi/abs/10.1145/3563766.3564096) is published at HotNets'2022!
 * [HOHO](https://conferences.sigcomm.org/events/apnet2022/papers/Hop-On%20Hop-Off%20Routing.pdf) is published at APNET'2022!
 
