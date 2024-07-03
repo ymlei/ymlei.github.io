@@ -1,9 +1,9 @@
 ---
 title: "Hop-On Hop-Off Routing: A Fast Tour across the Optical Data Center Network for Latency-Sensitive Flows"
 collection: publications
-permalink: /publication/hoho
+permalink: /publication/2022-07-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2022-07-01
 venue: 'APNET'22'
 paperurl: 'https://conferences.sigcomm.org/events/apnet2022/papers/Hop-On%20Hop-Off%20Routing.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
