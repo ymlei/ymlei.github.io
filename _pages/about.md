@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Network and Cloud Systems Research Group, Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), working with excellent [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
+I’m a PhD student in the Network and Cloud Systems Research Group at the Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), working with excellent [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
 
-Before joining MPI, I got my B.S. in Comuputer Science at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Prof. Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent wonderful half a year as an exchange student in [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019, advised by [Prof. Raja Chiky](http://perso.isep.fr/rchiky/) and [Prof. Xun Zhang](http://zhangxun.free.fr/).
+Before joining MPI, I got my B.S. in Comuputer Science from [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Prof. Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent a wonderful half-year as an exchange student at the [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019, advised by [Prof. Raja Chiky](http://perso.isep.fr/rchiky/) and [Prof. Xun Zhang](http://zhangxun.free.fr/).
 
 I love building systems. My research aims to design efficient networked systems, especially for data centers, through hardware-software co-design and cross-layer optimizations. My past research includes **optical data center networks**, **systems for machine learning**, and **hardware accelerators**. I have designed L2/L3 protocols for optical data center networks with data plane programmability and developed a specialized FPGA-based accelerator for SAT solving.
 
@@ -27,7 +27,7 @@ I play with
 
 News
 ======
-* [OpenOptics](https://ymlei.github.io/) has been accepted as a SIGCOMM ’24 DEMO! See you in Sydney!
+* [OpenOptics](https://ymlei.github.io/) has been accepted as a SIGCOMM ’24 DEMO! See you at Sydney!
 * [UCMP](https://ymlei.github.io/) has been accepted by SIGCOMM'24!
 * I will be volunteering for SOSP'23. See you in Koblenz!
 * [EchelonFlow](https://dl.acm.org/doi/abs/10.1145/3563766.3564096) is published at HotNets'2022!
