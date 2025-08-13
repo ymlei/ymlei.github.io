@@ -7,7 +7,7 @@ layout: home
 
 <img src="assets/profile.png" alt="Profile Photo" class="profile-image" style="width: 250px; height: auto;">
 
-I’m a PhD student at the Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), where I work with excellent [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
+I’m a PhD student at the Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), working on data center networking with [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
 I’m also a former AWS AI intern, where I built resilient training systems in JAX.
 
 I love building systems. My experience spans programmable networks, fault-tolerant distributed ML training, high-precision time synchronization, and hardware acceleration with FPGAs.
