@@ -4,8 +4,14 @@
 
 layout: home
 ---
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="assets/profile.png" alt="Profile Photo" class="profile-image" style="width: 250px; height: auto; margin-right: 20px;">
+    <div>
+        <div style="margin-bottom: 10px;"><a href="https://www.linkedin.com/in/yiming-lei-939658180/">LinkedIn</a></div>
+        <div><a href="https://scholar.google.com/citations?user=38hLSOgAAAAJ&hl=en">Google Scholar</a></div>
+    </div>
+</div>
 
-<img src="assets/profile.png" alt="Profile Photo" class="profile-image" style="width: 250px; height: auto;">
 
 I’m a PhD student at the Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), working on data center networks with [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
 During my PhD, I interned at AWS AI, where I built resilient training systems in [JAX](https://docs.jax.dev/en/latest/index.html).
