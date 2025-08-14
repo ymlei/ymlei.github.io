@@ -8,16 +8,9 @@ layout: home
 <img src="assets/profile.png" alt="Profile Photo" class="profile-image" style="width: 250px; height: auto;">
 
 I’m a PhD student at the Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), working on data center networks with [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
-During my PhD, I interned at AWS AI, where I built resilient training systems in JAX.
+During my PhD, I interned at AWS AI, where I built resilient training systems in [JAX](https://docs.jax.dev/en/latest/index.html).
 
 I love building systems. My experience spans programmable networks, fault-tolerant distributed ML training, high-precision time synchronization, and hardware acceleration with FPGAs.
-
-Things I play with
-* JAX and XLA
-* Programmable Switches (P4 and Tofino)
-* FPGAs
-* ...
-<br><br>
 
 News
 ======
@@ -32,7 +25,7 @@ Software
 <div style="display: flex; align-items: center;">
   <img src="assets/logo.png" alt="OpenOptics Logo" style="width: 150px; height: auto; margin-right: 20px;">
   <p>
-    OpenOptics (<a href="https://openoptics.mpi-inf.mpg.de/">Website</a>) - realizing customized optical data center network with ~10 lines of python.
+    OpenOptics (<a href="https://openoptics.mpi-inf.mpg.de/">Website</a>) - realizing customized optical data center networks with ~10 lines of code in Python.
   </p>
 </div>
 
