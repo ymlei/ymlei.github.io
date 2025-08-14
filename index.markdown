@@ -31,7 +31,7 @@ Software
 <div style="display: flex; align-items: center;">
   <img src="assets/logo.png" alt="OpenOptics Logo" style="width: 150px; height: auto; margin-right: 20px;">
   <p>
-    OpenOptics (<a href="https://openoptics.mpi-inf.mpg.de/">Website</a>) - realizing customized optical data center networks with ~10 lines of code in Python.
+    OpenOptics (<a href="https://openoptics.mpi-inf.mpg.de/">Website</a>, <a href="https://github.com/mpi-ncs/openoptics">GitHub</a>) - realizing customized optical data center networks with ~10 lines of code in Python.
   </p>
 </div>
 
