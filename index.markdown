@@ -20,13 +20,12 @@ I love building systems. My experience spans programmable networks, fault-tolera
 
 News
 ======
+* OpenOptics has been accepted at NSDI'26!
+* SyncWise has been accepted at NSDI'26!
 * We will host a tutorial on [OpenOptics](https://openoptics.mpi-inf.mpg.de/) at [SIGCOMM'25](https://conferences.sigcomm.org/sigcomm/2025/). See you in Coimbra, Portugal!
-* OpSync has been accepted as a [SIGCOMM’25 Poster](https://conferences.sigcomm.org/sigcomm/2025/accepted-posters-demos/)! Come chat with me about time synchronization for reconfigurable data center networks.
-* [OpenOptics](https://dl.acm.org/doi/abs/10.1145/3672202.3673712) was accepted as a DEMO at SIGCOMM ’24! See you at Sydney!
 
 Software
 =========
-
 
 <div style="display: flex; align-items: center;">
   <img src="assets/logo.png" alt="OpenOptics Logo" style="width: 150px; height: auto; margin-right: 20px;">
@@ -38,7 +37,7 @@ Software
 Projects
 =========
 
-**OpSync** - A time synchronization protocol for reconfigurable data center networks that outperforms SOTA (PTP, Sundial,Graham) even on static networks.
+**SyncWise** - A time synchronization protocol for reconfigurable data center networks that outperforms SOTA (PTP, Sundial,Graham) even on static networks.
 
 **ResilienX** - Checkpoint-free failure recovery for JAX, significantly reducing training wall time while preserving training correctness.
 
