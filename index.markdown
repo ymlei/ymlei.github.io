@@ -14,15 +14,33 @@ layout: home
 
 
 I’m a PhD student at the Max Planck Institute for Informatics ([MPI-INF](https://www.mpi-inf.mpg.de/home)), working on data center networks with [Yiting Xia](https://sites.google.com/view/yitingxia/home?authuser=0).
-During my PhD, I interned at AWS AI, where I built resilient training systems in [JAX](https://docs.jax.dev/en/latest/index.html).
+During my PhD, I interned at AWS AI, where I built resilient training systems for [JAX](https://docs.jax.dev/en/latest/index.html).
 
 I love building systems. My experience spans programmable networks, fault-tolerant distributed ML training, high-precision time synchronization, and hardware acceleration with FPGAs.
 
 News
 ======
-* OpenOptics has been accepted at NSDI'26!
-* SyncWise has been accepted at NSDI'26!
+* [OpenOptics](https://openoptics.mpi-inf.mpg.de/) has been accepted at **NSDI'26**!
+* [SyncWise](https://ymlei.github.io/) has been accepted at **NSDI'26**!
 * We will host a tutorial on [OpenOptics](https://openoptics.mpi-inf.mpg.de/) at [SIGCOMM'25](https://conferences.sigcomm.org/sigcomm/2025/). See you in Coimbra, Portugal!
+
+Selected Publications
+======================
+* **[NSDI’26]** OpenOptics: An Open Research Framework for Optical Data Center Networks.<br>
+**Yiming Lei**, Federico De Marchi, Raj Joshi, Jialong Li, Balakrishnan Chandrasekaran, Yiting Xia.
+
+* **[NSDI’26]** SyncWise: Error-Aware Time Synchronization for Reconfigurable Data Center Networks.<br>
+**Yiming Lei**, Jialong Li, Zhengqing Liu, Raj Joshi, Yiting Xia.
+
+* **[ToN’25]** Unlocking diversity of fast-switched optical data center networks with unified routing.<br>
+Jialong Li, Federico De Marchi, **Yiming Lei**, Raj Joshi, Balakrishnan Chandrasekaran, Yiting Xia.
+
+* **[SIGCOMM’24]** Uniform-cost multi-path routing for reconfigurable data center networks.<br>
+Jialong Li, Haotian Gong, Federico De Marchi, Aoyu Gong, **Yiming Lei**, Wei Bai, Yiting Xia.
+
+* **[HotNets’22]** Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon<br>
+Formation.
+Rui Pan*, **Yiming Lei***, Jialong Li, Zhiqiang Xie, Binhang Yuan, Yiting Xia. (*Equal Contributions).
 
 Software
 =========
