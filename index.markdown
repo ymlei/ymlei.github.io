@@ -40,7 +40,7 @@ Jialong Li, Haotian Gong, Federico De Marchi, Aoyu Gong, **Yiming Lei**, Wei Bai
 
 * **[HotNets’22]** Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon<br>
 Formation.
-Rui Pan*, **Yiming Lei***, Jialong Li, Zhiqiang Xie, Binhang Yuan, Yiting Xia. (*Equal Contributions).
+Rui Pan\*, **Yiming Lei**\*, Jialong Li, Zhiqiang Xie, Binhang Yuan, Yiting Xia. (*Equal Contributions).
 
 Software
 =========
@@ -66,7 +66,7 @@ Projects
 Experience
 ======
 * Oct 2021 – Present<br>PhD Student, [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)
-* Sep 2024 – Mar 2025<br>Applied Scientist Intern, AWS
+* Sep 2024 – Mar 2025<br>Applied Scientist Intern, AWS AI
 * Jul 2020 – Mar 2021<br>Research Assistant, [University of Illinois Urbana-Champaign](https://illinois.edu/)
 * Sep 2019 – Feb 2020<br>Exchange Student, [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/)
 * Sep 2017 - Jun 2021<br>B.Sc in Computer Science, [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications)
