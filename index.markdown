@@ -20,9 +20,9 @@ I love building systems. My experience spans programmable networks, fault-tolera
 
 News
 ======
-* [OpenOptics](https://openoptics.mpi-inf.mpg.de/) has been accepted at **NSDI'26**!
-* [SyncWise](https://ymlei.github.io/) has been accepted at **NSDI'26**!
-* We will host a tutorial on [OpenOptics](https://openoptics.mpi-inf.mpg.de/) at [SIGCOMM'25](https://conferences.sigcomm.org/sigcomm/2025/). See you in Coimbra, Portugal!
+* [OpenOptics](assets/OpenOptics_CR.pdf)([website](https://openoptics.mpi-inf.mpg.de/)) has been accepted at **NSDI'26**!
+* [SyncWise](assets/SyncWise_CR.pdf) has been accepted at **NSDI'26**!
+* We hosted a tutorial on [OpenOptics](https://openoptics.mpi-inf.mpg.de/) at [SIGCOMM'25](https://conferences.sigcomm.org/sigcomm/2025/).
 
 Selected Publications
 ======================
@@ -38,9 +38,8 @@ Jialong Li, Federico De Marchi, **Yiming Lei**, Raj Joshi, Balakrishnan Chandras
 * **[SIGCOMM’24]** Uniform-cost multi-path routing for reconfigurable data center networks.<br>
 Jialong Li, Haotian Gong, Federico De Marchi, Aoyu Gong, **Yiming Lei**, Wei Bai, Yiting Xia.
 
-* **[HotNets’22]** Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon<br>
-Formation.
-Rui Pan\*, **Yiming Lei**\*, Jialong Li, Zhiqiang Xie, Binhang Yuan, Yiting Xia. (*Equal Contributions).
+* **[HotNets’22]** Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation.<br>
+Rui Pan\*, **Yiming Lei**\*, Jialong Li, Zhiqiang Xie, Binhang Yuan, Yiting Xia. (\*Equal Contributions).
 
 Software
 =========
@@ -55,7 +54,7 @@ Software
 Projects
 =========
 
-**SyncWise** - A time synchronization protocol for reconfigurable data center networks that outperforms SOTA (PTP, Sundial,Graham) even on static networks.
+**SyncWise** - A time synchronization protocol for reconfigurable data center networks that outperforms SOTA (PTP, Sundial, Graham) even on static networks.
 
 **ResilienX** - Checkpoint-free failure recovery for JAX, significantly reducing training wall time while preserving training correctness.
 
@@ -69,7 +68,7 @@ Experience
 * Sep 2024 – Mar 2025<br>Applied Scientist Intern, AWS AI
 * Jul 2020 – Mar 2021<br>Research Assistant, [University of Illinois Urbana-Champaign](https://illinois.edu/)
 * Sep 2019 – Feb 2020<br>Exchange Student, [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/)
-* Sep 2017 - Jun 2021<br>B.Sc in Computer Science, [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications)
+* Sep 2017 – Jun 2021<br>B.Sc in Computer Science, [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications)
 
 
 Misc.
