@@ -20,7 +20,7 @@ I love building systems. My experience spans programmable networks, fault-tolera
 
 News
 ======
-* [OpenOptics](assets/OpenOptics_CR.pdf)([website](https://openoptics.mpi-inf.mpg.de/)) has been accepted at **NSDI'26**!
+* [OpenOptics](assets/OpenOptics_CR.pdf) ([website](https://openoptics.mpi-inf.mpg.de/)) has been accepted at **NSDI'26**!
 * [SyncWise](assets/SyncWise_CR.pdf) has been accepted at **NSDI'26**!
 * We hosted a tutorial on [OpenOptics](https://openoptics.mpi-inf.mpg.de/) at [SIGCOMM'25](https://conferences.sigcomm.org/sigcomm/2025/).
 
