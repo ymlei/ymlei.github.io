@@ -1,0 +1,169 @@
+<style>
+  :root {
+    --bg: #fdfdfb;
+    --ink: #16181d;
+    --muted: #5b6470;
+    --rule: #e6e3dc;
+    --accent: #3d5a80;
+    --accent-hover: #16181d;
+    --code-bg: #f4f1ea;
+
+    --font-serif: "Bitter", Georgia, "Times New Roman", serif;
+    --font-sans:  "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --ink: #e8e6e1;
+      --muted: #9aa3ad;
+      --rule: #2a2d33;
+      --accent: #8aa9c9;
+      --accent-hover: #e8e6e1;
+      --code-bg: #1c1f25;
+    }
+    img.profile-image { opacity: 0.92; }
+  }
+
+  html { background: var(--bg); }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-serif);
+    font-size: 17px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .wrapper {
+    max-width: 760px;
+    max-width: calc(760px - 30px * 2);
+  }
+
+  /* Headings — serif, tighter tracking, real hierarchy */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    color: var(--ink);
+    letter-spacing: -0.01em;
+    line-height: 1.25;
+  }
+  h1 { font-size: 32px; font-weight: 700; margin-top: 1.6em; margin-bottom: 0.5em; }
+  h2 { font-size: 24px; font-weight: 600; margin-top: 1.8em; margin-bottom: 0.4em; padding-bottom: 0.25em; border-bottom: 1px solid var(--rule); }
+  h3 { font-size: 19px; font-weight: 600; margin-top: 1.4em; margin-bottom: 0.3em; }
+
+  /* Site header — sans, clean rule */
+  .site-header {
+    border-top: none;
+    border-bottom: 1px solid var(--rule);
+    background: var(--bg);
+  }
+  .site-title, .site-title:visited {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: -0.005em;
+    color: var(--ink);
+  }
+  .site-nav .page-link {
+    font-family: var(--font-sans);
+    font-weight: 500;
+    font-size: 15px;
+    color: var(--muted);
+    margin-right: 0;
+    margin-left: 24px;
+  }
+  .site-nav .page-link:hover { color: var(--ink); text-decoration: none; }
+
+  /* Links — single accent, underline only on hover */
+  a, a:visited { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--accent-hover); text-decoration: underline; text-underline-offset: 2px; }
+
+  /* Post-list titles read as content, not links — invert on hover */
+  .post-link, .post-link:visited { color: var(--ink); }
+  .post-link:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+
+  /* Post list — calmer separators */
+  .post-list > li { margin-bottom: 48px; }
+  .post-list > li:not(:first-child) {
+    border-top: 1px solid var(--rule);
+    padding-top: 48px;
+  }
+  .post-meta { font-family: var(--font-sans); color: var(--muted); font-size: 13px; }
+  .post-title, .post-list h2 {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  /* Code & quotes pick up the tokens */
+  code, pre, tt {
+    background: var(--code-bg);
+    border-color: var(--rule);
+    color: var(--ink);
+  }
+  blockquote {
+    color: var(--muted);
+    border-left-color: var(--rule);
+  }
+  hr { border: none; border-top: 1px solid var(--rule); }
+
+  /* Footer — quiet, sans, top rule */
+  .site-footer {
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-family: var(--font-sans);
+    font-size: 13px;
+  }
+  .site-footer a, .site-footer a:visited { color: var(--muted); }
+  .site-footer a:hover { color: var(--ink); }
+
+  /* Home-page profile / project blocks (replaces inline flex) */
+  .profile {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    flex-wrap: wrap;
+    margin: 8px 0 32px;
+  }
+  .profile .links {
+    font-family: var(--font-sans);
+    font-size: 15px;
+    line-height: 1.9;
+  }
+  .profile .links a { display: block; }
+
+  .project {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin: 8px 0 24px;
+  }
+  .project > img { flex: 0 0 auto; }
+  .project > div { flex: 1 1 320px; min-width: 0; }
+
+  .profile-image {
+    width: 220px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    display: block;
+  }
+
+  /* Focus ring */
+  a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  /* Responsive tightening */
+  @media (max-width: 560px) {
+    body { font-size: 16px; }
+    h1 { font-size: 28px; }
+    h2 { font-size: 21px; }
+    h3 { font-size: 18px; }
+    .site-nav .page-link { margin-left: 14px; font-size: 14px; }
+    .profile-image { width: 180px; }
+  }
+</style>

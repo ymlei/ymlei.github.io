@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gem list *)",
+      "Read(//Users/ylei/.gem/**)",
+      "Bash(ruby -r bundler/setup -e \"puts Gem.loaded_specs['jekyll-whiteglass'].full_gem_path\")",
+      "Read(//Users/ylei/.rbenv/versions/3.4.3/lib/ruby/gems/3.4.0/gems/jekyll-whiteglass-1.11.7/**)",
+      "Bash(bundle exec *)",
+      "Bash(curl -fsS http://localhost:4000/)",
+      "Bash(lsof -iTCP:4000 -sTCP:LISTEN)",
+      "Bash(curl -fsS -o /dev/null -w 'HTTP %{http_code}\\\\n' http://localhost:4000__TRACKED_VAR__)",
+      "Bash(/usr/bin/curl -fsS -o /dev/null -w \"/  HTTP %{http_code}\\\\n\" http://localhost:4000/)",
+      "Bash(/usr/bin/curl -fsS -o /dev/null -w \"/about/  HTTP %{http_code}\\\\n\" http://localhost:4000/about/)",
+      "Bash(/usr/bin/curl -fsS -o /dev/null -w \"/archives/  HTTP %{http_code}\\\\n\" http://localhost:4000/archives/)",
+      "Bash(/usr/bin/curl -fsS -o /dev/null -w \"post  HTTP %{http_code}\\\\n\" http://localhost:4000/2025/04/01/jax-distributed-walkthrough/)",
+      "Bash(/usr/bin/curl -fsS http://localhost:4000/archives/)",
+      "Bash(/usr/bin/curl -fsS -o /dev/null -w \"post HTTP %{http_code}\\\\n\" http://localhost:4000/2025/08/31/jax-donation/)",
+      "Bash(/usr/bin/curl -fsS http://localhost:4000/)"
+    ]
+  }
+}
