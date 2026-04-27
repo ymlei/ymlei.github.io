@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Before joining MPI, I got my B.S. in Comuputer Science from [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Prof. Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent a wonderful half-year as an exchange student at the [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019, advised by [Prof. Raja Chiky](http://perso.isep.fr/rchiky/) and [Prof. Xun Zhang](http://zhangxun.free.fr/).
+Before joining MPI, I got my B.S. in Computer Science from [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications). I was fortunate to work with [Prof. Jian Huang](http://jianh.web.engr.illinois.edu/) as a research intern at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the summer of 2020. I spent a wonderful half-year as an exchange student at the [Institut supérieur d’électronique de Paris (ISEP)](https://en.isep.fr/) in Paris during 2019, advised by [Prof. Raja Chiky](http://perso.isep.fr/rchiky/) and [Prof. Xun Zhang](http://zhangxun.free.fr/).
 
 Services
 ======
