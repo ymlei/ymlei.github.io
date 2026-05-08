@@ -17,7 +17,7 @@ I work on making datacenter systems fast, efficient, and resilient — from **op
 
 ## Highlights
 
-* **Publications:** 2× NSDI first-author papers ([OpenOptics](assets/OpenOptics_CR.pdf) — democratizing optical DCNs; [SyncWise](assets/SyncWise_CR.pdf) — sub-10ns clock accuracy).
+* **Publications:** 2× NSDI first-author papers ([OpenOptics]([assets/OpenOptics_CR.pdf](https://www.usenix.org/conference/nsdi26/presentation/lei-optical)) — democratizing optical DCNs; [SyncWise]([assets/SyncWise_CR.pdf](https://www.usenix.org/conference/nsdi26/presentation/lei-syncwise)) — sub-10ns clock accuracy).
 * **Open-source systems:** [OpenOptics](https://openoptics.mpi-inf.mpg.de/) — primary contributor, ~30k LoC, modular architecture, comprehensive docs, [tutorial at SIGCOMM’25](https://conferences.sigcomm.org/sigcomm/2025/).
 * **ML systems:** Phoenix (checkpoint-less JAX recovery, AWS AI internship) and a feature upstreamed in [JAX PR #36613](https://github.com/jax-ml/jax/pull/36613).
 
