@@ -23,18 +23,18 @@ I work on making datacenter systems fast, efficient, and resilient — from **op
 
 ## News
 
-* [OpenOptics](assets/OpenOptics_CR.pdf) ([website](https://openoptics.mpi-inf.mpg.de/)) has been accepted at **NSDI'26**!
-* [SyncWise](assets/SyncWise_CR.pdf) has been accepted at **NSDI'26**!
+* [OpenOptics](https://www.usenix.org/conference/nsdi26/presentation/lei-optical) ([website](https://openoptics.mpi-inf.mpg.de/)) has been accepted at **NSDI'26**!
+* [SyncWise](https://www.usenix.org/conference/nsdi26/presentation/lei-syncwise) has been accepted at **NSDI'26**!
 * We hosted a tutorial on [OpenOptics](https://openoptics.mpi-inf.mpg.de/) at [SIGCOMM'25](https://conferences.sigcomm.org/sigcomm/2025/).
 
 ## Selected Publications
 
 * **[Under Submission]** Phoenix: Checkpoint-less Failure Recovery for Auto-parallelism.
 
-* **[NSDI’26]** OpenOptics: Enabling Open Research and Implementation of Optical Data Center Networks. ([paper](assets/OpenOptics_CR.pdf), [website](https://openoptics.mpi-inf.mpg.de/))<br>
+* **[NSDI’26]** OpenOptics: Enabling Open Research and Implementation of Optical Data Center Networks. ([paper](https://www.usenix.org/conference/nsdi26/presentation/lei-optical), [website](https://openoptics.mpi-inf.mpg.de/))<br>
 **Yiming Lei**, Federico De Marchi, Raj Joshi, Jialong Li, Balakrishnan Chandrasekaran, Yiting Xia.
 
-* **[NSDI’26]** SyncWise: Error-Aware Time Synchronization for Reconfigurable Data Center Networks. ([paper](assets/SyncWise_CR.pdf))<br>
+* **[NSDI’26]** SyncWise: Error-Aware Time Synchronization for Reconfigurable Data Center Networks. ([paper](https://www.usenix.org/conference/nsdi26/presentation/lei-syncwise))<br>
 **Yiming Lei**, Jialong Li, Zhengqing Liu, Raj Joshi, Yiting Xia.
 
 * **[HotNets’22]** Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation. ([paper](https://dl.acm.org/doi/pdf/10.1145/3563766.3564096))<br>
@@ -46,7 +46,7 @@ Rui Pan\*, **Yiming Lei**\*, Jialong Li, Zhiqiang Xie, Binhang Yuan, Yiting Xia.
   <img src="assets/logo.png" alt="OpenOptics Logo" class="profile-image" style="width: 150px;">
   <div>
     <p>
-      <strong><a href="https://openoptics.mpi-inf.mpg.de/">OpenOptics</a></strong> (<a href="https://github.com/mpi-ncs/openoptics">GitHub</a>, <a href="assets/OpenOptics_CR.pdf">paper</a>, NSDI'26) — realize customized optical data center networks with ~10 lines of Python.
+      <strong><a href="https://openoptics.mpi-inf.mpg.de/">OpenOptics</a></strong> (<a href="https://github.com/mpi-ncs/openoptics">GitHub</a>, <a href="https://www.usenix.org/conference/nsdi26/presentation/lei-optical">paper</a>, NSDI'26) — realize customized optical data center networks with ~10 lines of Python.
     </p>
     <ul>
       <li><strong>Primary contributor — shipped ~30k LoC.</strong></li>
